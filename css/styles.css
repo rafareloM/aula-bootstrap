@@ -1,0 +1,41 @@
+body{
+    font:20px Arial, sans-serif;
+}
+
+h3 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.profile {
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-right: 40px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.navbar {
+background-color: 466365;
+}    
+
+.quem_somos{
+    background-color: A3C4BC;
+    color: white
+}    
+
+.parceiros{
+    background-color: ECBEB4;
+}
+
+.servicos{
+    background-color: FAC9B8;
+}
+
+.bg-footer{
+    background-color: 050517;
+    color: white;
+}
